@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  test_date: 2018-11-03
+  score: 9.99
+
+two:
+  test_date: 2018-11-03
+  score: 9.99
